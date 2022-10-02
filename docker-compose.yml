@@ -1,8 +1,8 @@
 version: "3.9"
 
 services:
-  zenn:
-    container_name: zenn
+  zenndocc:
+    container_name: zenndocc
     build:
       context: .
       dockerfile: docker/Dockerfile
@@ -10,7 +10,7 @@ services:
       - .:/workspace:delegated
       - node_modules:/workspace/node_modules
     ports:
-      - 8000:8000
+      - 8008:8000
     restart: always
 
 volumes:
