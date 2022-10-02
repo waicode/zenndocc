@@ -6,7 +6,9 @@
   // words - list of words to be always considered correct
   "words": [
     "joshi",
-    "zenn"
+    "waicode",
+    "zenn",
+    "zenndocc"
   ],
   // flagWords - list of words to be always considered incorrect
   // "flagWords": [],
