@@ -1,10 +1,22 @@
 {
+  // Markdown word wrap & suggestions
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": true,
+      "strings": true
+    },
+    "editor.snippetSuggestions": "top"
+  },
+
+  // Zenn theme
   "workbench.colorCustomizations": {
-    // Zenn theme
     "editor.background": "#fff",
     "statusBar.background": "#0d83fd",
     "sideBar.background": "#EDF2F7"
   },
+
   // Zenn `published_at` format
   "insertDateString.format": "YYYY-MM-DD hh:mm",
   "markdownlint.config": {
