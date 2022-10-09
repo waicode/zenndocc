@@ -1,9 +1,9 @@
 {
-  "name": "zenn-content-boilerplate",
+  "name": "zenndocc",
   "version": "1.0.0",
   "private": true,
-  "description": "Zenn content boilerplate",
-  "repository": "https://github.com/waicode/zenn-content-boilerplate.git",
+  "description": "Zenn content written by waicode",
+  "repository": "https://github.com/waicode/zenndocc.git",
   "author": "waicode",
   "scripts": {
     "preview": "npx zenn preview",
