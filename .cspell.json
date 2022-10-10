@@ -6,6 +6,8 @@
   // words - list of words to be always considered correct
   "words": [
     "joshi",
+    "Qiita",
+    "textlintrc",
     "waicode",
     "zenn",
     "zenncli",
