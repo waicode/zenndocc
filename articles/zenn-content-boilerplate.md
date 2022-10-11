@@ -285,7 +285,7 @@ https://github.com/waicode/zenn-content-boilerplate
 
 同様の仕組みで作成した**Qiita執筆環境のボイラープレート**も公開しています。非公式のQiita連携ツールを使って、ZennのようにGithub連携して記事を書くことができます。Qiitaで記事を書いている方は、こちらも合わせて参考にしてみてください。
 
-<!-- QiitaのURL -->
+https://qiita.com/waicode/items/61ec0f9478fdb8a8e542
 
 # 技術ブログと同じ環境でZennを書けるようにした結果
 
