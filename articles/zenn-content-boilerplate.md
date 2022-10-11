@@ -3,7 +3,7 @@ title: "VSCodeが導くZenn執筆環境ボイラープレート"
 emoji: "🚂"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["zenncli", "vscode", "devcontainer", "markdown", "textlint"]
-published: false
+published: true
 ---
 
 # Zenn CLIに最適化されたVSCode環境で書くために
