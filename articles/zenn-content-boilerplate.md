@@ -81,7 +81,7 @@ https://zenn.dev/zenn/articles/zenn-cli-guide
 
 ## 記事を書くための設定
 
-### Zenn CLIコマンドはnmpスクリプトから1クリックで実行
+### Zenn CLIコマンドはnpmスクリプトから1クリックで実行
 
 記事のプレビュー（`npx zenn preview`）や記事の新規作成（`npx zenn new:article`）はnpmスクリプトに登録しています。VSCodeのサイドバーから1クリックで実行できます。
 
