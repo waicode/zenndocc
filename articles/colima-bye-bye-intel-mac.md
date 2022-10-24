@@ -1,5 +1,5 @@
 ---
-title: "ColimaをDocker Desktopと併用してIntel Macへの未練を断ち切る"
+title: "ColimaとDocker Desktopの併用でIntel Macへの未練を断ち切る"
 emoji: "🐿"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["lima","colima","docker","m1","m2"]
