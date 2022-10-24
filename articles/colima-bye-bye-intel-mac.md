@@ -3,7 +3,7 @@ title: "ColimaとDocker Desktopを併用してIntel Macへの未練を断ち切�
 emoji: "🐿"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["lima","colima","docker","m1","m2"]
-published: false
+published: true
 ---
 
 # M1は速い、M2はもっと速い
